@@ -10,7 +10,7 @@ This repository is a hands-on learning path for Artificial Intelligence. Each no
 
 ## 📝 Detailed Description
 
-The project was created as a collection of **AI lab notebooks** to strengthen understanding of core AI techniques. Topics include:
+The project was created as a collection of **AI notebooks** to strengthen understanding of core AI techniques. Topics include:
 
 * **Introduction to AI** : Foundations, history, and applications.
 * **Search Algorithms** : Implementations of uninformed and informed search.
@@ -20,15 +20,15 @@ The project was created as a collection of **AI lab notebooks** to strengthen un
 * **NLP Basics** : Tokenization, sentiment analysis, and text processing.
 * **Advanced Topics** : Exploration of more complex AI areas.
 
-Additional `practice_exercises.ipynb` allows experimenting with coding problems to strengthen concepts.
+Additional `AI_LAB_Practice.ipynb` allows experimenting with coding problems to strengthen concepts.
 
 ---
 
 ## 🚀 How to Run
 
 1. Clone the repository:
-   <pre class="overflow-visible!" data-start="2311" data-end="2415"><div class="contain-inline-size rounded-2xl relative bg-token-sidebar-surface-primary"><div class="sticky top-9"><div class="absolute end-0 bottom-0 flex h-9 items-center pe-2"><div class="bg-token-bg-elevated-secondary text-token-text-secondary flex items-center gap-4 rounded-sm px-2 font-sans text-xs"></div></div></div><div class="overflow-y-auto p-4" dir="ltr"><code class="whitespace-pre! language-bash"><span><span>git </span><span>clone</span><span> https://github.com/MuhammadAsad/Learning-AI.git
-   </span><span>cd</span><span> Learning-AI
+   <pre class="overflow-visible!" data-start="2311" data-end="2415"><div class="contain-inline-size rounded-2xl relative bg-token-sidebar-surface-primary"><div class="sticky top-9"><div class="absolute end-0 bottom-0 flex h-9 items-center pe-2"><div class="bg-token-bg-elevated-secondary text-token-text-secondary flex items-center gap-4 rounded-sm px-2 font-sans text-xs"></div></div></div><div class="overflow-y-auto p-4" dir="ltr"><code class="whitespace-pre! language-bash"><span><span>git </span><span>clone</span><span> https://github.com/MuhammadAsad29/Learning-AI.git
+   </span><span>cd</span><span>Learning-AI
    </span></span></code></div></div></pre>
 2. Create a virtual environment (optional but recommended):
    <pre class="overflow-visible!" data-start="2480" data-end="2586"><div class="contain-inline-size rounded-2xl relative bg-token-sidebar-surface-primary"><div class="sticky top-9"><div class="absolute end-0 bottom-0 flex h-9 items-center pe-2"><div class="bg-token-bg-elevated-secondary text-token-text-secondary flex items-center gap-4 rounded-sm px-2 font-sans text-xs"></div></div></div><div class="overflow-y-auto p-4" dir="ltr"><code class="whitespace-pre! language-bash"><span><span>python -m venv .venv
@@ -60,3 +60,4 @@ You can install everything with:
 ## 🙌 Contributions
 
 Feel free to fork the repo, suggest improvements, or add new AI notebooks to extend the collection.
+
